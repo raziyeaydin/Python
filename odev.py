@@ -1,0 +1,8 @@
+# -*- coding: cp1254 -*-
+class Test:
+    soru="asagýdakilerden hangisi......"
+    a= "adana"
+    b="bursa"
+    c="ceyhan"
+    d="denizli"
+    
